@@ -8,6 +8,7 @@
     (title "I2CADC02A")
     (date "2023-10-28")
     (company "kaklik@mlab.cz")
+    (comment 1 "Differential, 16-Bit ∆Σ ADC With I2C Interface")
   )
 
   (lib_symbols
@@ -415,7 +416,7 @@
     )
     (pin "1" (uuid 9fc3f871-0b9c-43a2-9ac0-b20fe370d58d))
     (instances
-      (project "I2CADC02A"
+      (project "I2CADC02"
         (path "/7b7bb011-1ab2-4a2c-90e6-466858dde43d"
           (reference "#PWR?") (unit 1)
         )
@@ -440,7 +441,7 @@
     )
     (pin "1" (uuid 4f51bec1-9025-47b3-8438-a1d97e7b249f))
     (instances
-      (project "I2CADC02A"
+      (project "I2CADC02"
         (path "/7b7bb011-1ab2-4a2c-90e6-466858dde43d"
           (reference "#PWR?") (unit 1)
         )
@@ -467,16 +468,16 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 62fadb92-263e-4361-881d-eeec7b22d39a))
-    (pin "2" (uuid 87a9d120-8b0a-4c9c-9f3c-517ac32d6d5e))
-    (pin "2" (uuid 87a9d120-8b0a-4c9c-9f3c-517ac32d6d5e))
-    (pin "3" (uuid 5a12b3c2-9467-4724-bd38-91e1d15edac0))
-    (pin "3" (uuid 5a12b3c2-9467-4724-bd38-91e1d15edac0))
+    (pin "2" (uuid 87a9d120-8b0a-4c9c-9f3c-517ac32d6d5f))
+    (pin "2" (uuid 87a9d120-8b0a-4c9c-9f3c-517ac32d6d5f))
+    (pin "3" (uuid 5a12b3c2-9467-4724-bd38-91e1d15edac1))
+    (pin "3" (uuid 5a12b3c2-9467-4724-bd38-91e1d15edac1))
     (pin "4" (uuid 8b50692c-14c0-40f5-860c-57df1a1accc6))
     (pin "7" (uuid e34793a3-720e-4316-b54f-1c2c1358dd71))
     (pin "8" (uuid a0c72c2b-5180-41bc-b6f2-272c288dca4e))
     (pin "9" (uuid 17933e19-c0c6-443d-ba4c-d3c422e8dd41))
     (instances
-      (project "I2CADC02A"
+      (project "I2CADC02"
         (path "/7b7bb011-1ab2-4a2c-90e6-466858dde43d"
           (reference "U?") (unit 1)
         )
@@ -501,7 +502,7 @@
     )
     (pin "1" (uuid 74f05184-c05a-4c80-a44f-ea23ed8c9ada))
     (instances
-      (project "I2CADC02A"
+      (project "I2CADC02"
         (path "/7b7bb011-1ab2-4a2c-90e6-466858dde43d"
           (reference "#PWR?") (unit 1)
         )
@@ -527,7 +528,7 @@
     (pin "1" (uuid 866afce2-7d63-4741-a0c4-a41338dcfb43))
     (pin "2" (uuid ad559b4b-f483-480a-aff8-5b3837f00f04))
     (instances
-      (project "I2CADC02A"
+      (project "I2CADC02"
         (path "/7b7bb011-1ab2-4a2c-90e6-466858dde43d"
           (reference "C?") (unit 1)
         )
@@ -552,7 +553,7 @@
     )
     (pin "1" (uuid e5ce7367-53a3-488f-84fd-dbcfc537d1c9))
     (instances
-      (project "I2CADC02A"
+      (project "I2CADC02"
         (path "/7b7bb011-1ab2-4a2c-90e6-466858dde43d"
           (reference "#PWR?") (unit 1)
         )
@@ -577,7 +578,7 @@
     )
     (pin "1" (uuid 373d06cc-4b8d-4de9-8c3e-a887b76cea71))
     (instances
-      (project "I2CADC02A"
+      (project "I2CADC02"
         (path "/7b7bb011-1ab2-4a2c-90e6-466858dde43d"
           (reference "#PWR?") (unit 1)
         )
@@ -603,7 +604,7 @@
     (pin "1" (uuid fe002216-9f0e-44f8-aab2-db33abc818f7))
     (pin "2" (uuid 74519002-8fc8-478c-b505-761d816b61cb))
     (instances
-      (project "I2CADC02A"
+      (project "I2CADC02"
         (path "/7b7bb011-1ab2-4a2c-90e6-466858dde43d"
           (reference "R?") (unit 1)
         )
@@ -629,7 +630,7 @@
     (pin "1" (uuid f6e55f8c-df55-4bba-9c96-e4f69b22f639))
     (pin "2" (uuid 11f23826-ed1e-4fad-a2cd-628b9ea5207e))
     (instances
-      (project "I2CADC02A"
+      (project "I2CADC02"
         (path "/7b7bb011-1ab2-4a2c-90e6-466858dde43d"
           (reference "R?") (unit 1)
         )
@@ -655,7 +656,7 @@
     (pin "1" (uuid 6b99d892-d8f5-4ec5-8e66-b6182d0991d0))
     (pin "2" (uuid 26fb8545-3fec-405e-a0de-9d649d06bc3e))
     (instances
-      (project "I2CADC02A"
+      (project "I2CADC02"
         (path "/7b7bb011-1ab2-4a2c-90e6-466858dde43d"
           (reference "TH?") (unit 1)
         )
@@ -680,7 +681,7 @@
     )
     (pin "1" (uuid 85d383a4-ce57-4137-bdc3-f114092c68ee))
     (instances
-      (project "I2CADC02A"
+      (project "I2CADC02"
         (path "/7b7bb011-1ab2-4a2c-90e6-466858dde43d"
           (reference "#PWR?") (unit 1)
         )
