@@ -7,7 +7,7 @@ homepage: false
 images:
 - doc/img/I2CADC02A_QRcode.png
 mark: 50
-status: 2
+status: 1
 tags:
 - mlab
 - mlab-module
