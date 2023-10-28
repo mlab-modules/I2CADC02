@@ -1,4 +1,4 @@
-description: null
+description: "Differential, 16-Bit \u2206\u03A3 ADC With I2C Interface"
 github_branch: I2CADC02A
 github_description: null
 github_repo: I2CADC02
@@ -11,5 +11,7 @@ status: 2
 tags:
 - mlab
 - mlab-module
+- i2c
+- i2c-sensors
 title: I2CADC02
 updated: '2023-10-28T12:14:55.932621+00:00'
